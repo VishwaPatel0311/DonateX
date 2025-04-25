@@ -16,8 +16,8 @@ It features:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/donateX.git
-cd donateX
+git clone git@github.com:VishwaPatel0311/DonateX.git
+cd donateX/app
 ```
 
 ### 2. Create Virtual Environment and Install Dependencies
